@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name my_kicad_lib)(type KiCad)(uri /home/ghil/Dropbox/kicad/my_kicad_lib/my_kicad_lib.pretty)(options "")(descr ""))
+)
